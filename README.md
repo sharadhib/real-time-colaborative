@@ -63,5 +63,5 @@ This component is easily extendable to support:
 
 `CollaborativeEditor.jsx` is a clean and effective entry point for building real-time collaborative text applications. It leverages React for the UI and Socket.IO for fast, event-based data exchange, making it ideal for prototypes, internal tools, or learning projects.
 
-*OUTPUT*:
+*OUTPUT*:<img width="797" alt="Image" src="https://github.com/user-attachments/assets/d319b74b-17bf-4e31-8647-40920d79fcbc" />
 
